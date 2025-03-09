@@ -1,0 +1,19 @@
+<project >
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.sockstream</groupId>
+  <artifactId>weatherscrapper_V2</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>WeatherScrapper_V2</name>
+  <dependencies>
+	  <dependency>
+	    <groupId>org.jsoup</groupId>
+	    <artifactId>jsoup</artifactId>
+	    <version>1.15.4</version>
+	  </dependency>
+	  <dependency>
+	    <groupId>io.github.cdimascio</groupId>
+	    <artifactId>java-dotenv</artifactId>
+	    <version>5.2.2</version>
+	</dependency>
+  </dependencies>
+</project>
