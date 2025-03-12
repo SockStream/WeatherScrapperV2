@@ -1,8 +1,9 @@
 package weatherscrapper_V2.DataModel;
 
-import java.sql.Date;
+import java.util.Date;
 
 public class MeteoData {
+	public int id;
 	public int LocalisationId;
 	public Date Date;
 	public int DewPoint;
